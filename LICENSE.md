@@ -1,4 +1,4 @@
-
+Enhance Asana for macOS with Asana for macOS elite Utility: custom shortcuts & auto-sync, the #1 utility. Includes custom shortcuts and auto-sync for a smoother experience.
 
 
 
